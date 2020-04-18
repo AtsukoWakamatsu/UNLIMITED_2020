@@ -105,7 +105,7 @@ UN:LIMITED では以下のツールを主に使用します
 今のうちから慣れておくと将来にメリットがあること間違いなし！
 
 
-[Google、Then ask]
+<h4>[Google、Then ask]</h4>
 
 # 相談先リスト
 
