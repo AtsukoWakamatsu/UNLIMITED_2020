@@ -11,13 +11,15 @@
 # アンリミについて
 
 <h4>Mission(アンリミの存在意義)</h4>
-アントレプレナーシップを高めたい学生のプラットホーム
+[アントレプレナーシップ]を高めたい学生のプラットホーム
+
 <h4>Vision(アンリミの目指す姿)</h4>
 トキメキをかたちに！！
 一人一人がやりたいことを心の中でキラキラ輝く想いを実現できる場でありたいと思います！
+
 <h4>Value(行動指針)</h4>
 
-１　パッション　
+１　強い気持ち/情熱
   
 ２　向上心
 
@@ -61,23 +63,23 @@
 
 # 公式情報発信サイト
 
--Twitter　 https://twitter.com/un_limited_8
+・Twitter　 https://twitter.com/un_limited_8
 
--Instagram  https://www.instagram.com/un_limited_8/
+・Instagram  https://www.instagram.com/un_limited_8/
 
--HP　
+・HP　
 
--公式ブログ
+・公式ブログ　https://unlimited-agu.amebaownd.com/
 
 
 # 達成目標
 <h4>
  
-1年次
+・1年次
   
-2年次
+・2年次
 
-3年次
+・3年次
 
 </h4>
 
@@ -95,13 +97,13 @@
 
 UN:LIMITED では以下のツールを主に使用します
 
--Googleサービス（）
+・Googleサービス（）
   
--Slack　メインコミュニケーションツール
+・Slack　メインコミュニケーションツール
 
--GitHub データの共有/管理
+・GitHub データの共有/管理
 
--zoom　オンライン会議
+・zoom　オンラインMTG
 
 
 使えば使うほど使えるようになります！
@@ -112,13 +114,13 @@ UN:LIMITED では以下のツールを主に使用します
 
 # 相談先リスト
 
-<h4>全体的なこと</h4>　ゆうか（代表）
+<h4>・全体的なこと</h4>　ゆうか（代表）
  
-<h4>HOW TO的なこと</h4>
+<h4>・HOW TO的なこと</h4>
   
-<h4>テクノロジー関連</h4>
+<h4>・テクノロジー関連</h4>
 
-<h4>会計</h4>　ちな（会計）
+<h4>・会計</h4>　ちな（会計）
 
 
 
