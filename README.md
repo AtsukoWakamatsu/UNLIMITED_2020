@@ -52,16 +52,18 @@
 # 公式コミュニケーションツール
 
 ・Slack [https://aguunlimited.slack.com/](https://aguunlimited.slack.com/)
+
 -原則LINEは使いません
 
 ・ZOOM  https://zoom.us/jp-jp/meetings.html
+
 -オンラインMTGは主にzoomで行います
 
 # 公式情報発信サイト
 
 -Twitter　 https://twitter.com/un_limited_8
 
--Instagram https://www.instagram.com/un_limited_8/
+-Instagram  https://www.instagram.com/un_limited_8/
 
 -HP　
 
@@ -86,6 +88,7 @@
 # アンリミ特有のルール
 
 <h4>１飲酒厳禁！</h4>
+
 サークルでの飲み会などは一切行いません！
 
 <h4>２テクノロジー環境について</h4>
@@ -120,14 +123,20 @@ UN:LIMITED では以下のツールを主に使用します
 
 
 # アンリマーの標準装備
-
+<h4>・スマートフォン
+  これはもう、いうまでもなくマストアイテムです
+  
+<h4>・ノートパソコン
+  機種は問いません。前期は全てオンラインで活動します。
+  必ず購入してください。
+  
 <h4>・パスポート</h4>
 海外へのスタディーツアーに三年で一回は参加してみてください！
 
 <h4>・クレジットカード</h4>
+海外のスタディツアーの際に使用します。一枚あると便利です！
 
 <h4>・やる気</h4>
-
-
+継続的なモチベーションが大事です！
 
 
