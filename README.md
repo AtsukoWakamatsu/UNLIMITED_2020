@@ -146,15 +146,15 @@ Push the limit!　アンリミの名の通り自分にリミットを設けな�
 
 # 相談先リスト
 
-<h4>・全体的なこと</h4>　　Yuka（代表）
+<h4>・全体的なこと</h4>Yuka（代表）
  
-<h4>・HOW TO的なこと</h4>　　Koki、Ibuki、Ayaka、Hinako
+<h4>・HOW TO的なこと</h4>Koki、Ibuki、Ayaka、Hinako
   
-<h4>・テクノロジー関連</h4>　　Atsuko（副代表）
+<h4>・テクノロジー関連</h4>Atsuko（副代表）
 
-<h4>・会計</h4>　　China（会計）
+<h4>・会計</h4>China（会計）
 
-<h4>スタディツアー関連</h4>　　Kaito
+<h4>スタディツアー関連</h4>Kaito
 
 # アンリマーの主要装備
 
