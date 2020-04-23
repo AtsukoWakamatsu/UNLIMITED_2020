@@ -165,11 +165,11 @@ Push the limit!　アンリミの名の通り自分にリミットを設けな�
 
 ## 相談先リスト
 
-#### ・全体的なこと　 
- Yuka（代表）
+#### ・全体的なこと　
+---Yuka（代表）
  
 #### ・HOW TO的なこと
- Koki、Ibuki、Ayaka、Hinako
+ -------Koki、Ibuki、Ayaka、Hinako
   
 #### ・テクノロジー関連　
  Atsuko（副代表）
