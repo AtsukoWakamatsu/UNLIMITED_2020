@@ -84,19 +84,19 @@
 原則ラインは使いません。
 オンラインMTGは主にzoomで行います
 
-・Slack [https://aguunlimited.slack.com/](https://aguunlimited.slack.com/)
+・Slack  [https://slack.com/intl/ja-jp/](https://slack.com/intl/ja-jp/)
 
-・ZOOM  https://zoom.us/jp-jp/meetings.html
+・ZOOM   [https://zoom.us/jp-jp/meetings.html](https://zoom.us/jp-jp/meetings.html)
 
 <br>
 
 ## 公式情報発信サイト
 
-・Twitter　 https://twitter.com/un_limited_8
+・Twitter   [https://twitter.com/un_limited_8](https://twitter.com/un_limited_8)
 
-・Instagram  https://www.instagram.com/un_limited_8/
+・Instagram   [https://www.instagram.com/un_limited_8/](https://www.instagram.com/un_limited_8/)
 
-・HP / 公式ブログ　https://unlimited-agu.amebaownd.com/
+・HP / 公式ブログ   [https://unlimited-agu.amebaownd.com/](https://unlimited-agu.amebaownd.com/)
 
 <br>
 
