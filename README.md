@@ -192,7 +192,7 @@ Push the limit!　アンリミの名の通り自分にリミットを設けな�
   機種は問いません。使いこなせるものを選びましょう。
   前期は全てオンラインで活動します。
   必ず購入してください。
-  https://www.apple.com/jp_edu_1460/shop
+  [https://www.apple.com/jp_edu_1460/shop](https://www.apple.com/jp_edu_1460/shop)
 
 #### ・パスポート
 海外へのスタディーツアーに三年で一回は参加してみてください！
