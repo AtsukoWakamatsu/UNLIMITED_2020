@@ -190,6 +190,7 @@ Push the limit!　アンリミの名の通り自分にリミットを設けな�
   
 #### ・ノートパソコン
   メーカー・機種は問いません。使いこなせるものを選びましょう。WindowsでもMacでもなんでもオッケーです！
+  
   前期は全てオンラインで活動します。
   必ず購入してください。
   [https://www.apple.com/jp_edu_1460/shop](https://www.apple.com/jp_edu_1460/shop)
